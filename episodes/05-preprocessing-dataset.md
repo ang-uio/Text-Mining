@@ -1,16 +1,8 @@
----
-title: "Pre-processing Data Collections"
-questions:
-- "How can I load a file and tokenise it?"
-- "How can I load a text collection made up of multiple text files and tokenise them?"
-objectives:
-- "Learn how to tokenise a text file and a collection of text files"
-keypoints:
+## Data Preparation
+
+Keypoints:
 - "To open and read a file on your computer, the ```open()``` and ```read()``` functions can be used. "
 - "To read an entire collection of text files you can use the ```PlaintextCorpusReader``` class provided by NLTK and its ```words()``` function to extract all the words from the text in the collection."
----
-
-## Data Preparation
 
 Text data comes in different formats that must be parsed into plain text for Python to read it. In this part of the lesson we will show you how to load a single document and how to load the text of an entire corpus into Python for further analysis. For more on corpora you can access and preprocessing of data, we recommend the chapters on [accessing text corpora](https://www.nltk.org/book/ch02.html) and [processing raw text](https://www.nltk.org/book/ch03.html) in the [NLKT textbook](https://www.nltk.org/book/). You may also want to consult the first couple of chapters in the textbook [Humanities Data Danalysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/) regarding [data formats](https://www.humanitiesdataanalysis.org/getting-data/notebook.html#plain-text) and [preprocesing](https://www.humanitiesdataanalysis.org/vector-space-model/notebook.html#text-preprocessing).
 
@@ -92,6 +84,3 @@ lower_corpus_tokens[0:10]
 > > ~~~python
 > > print(lower_corpus_tokens[0:30])
 > > ~~~
-> >
-> {: .solution}
-{: .challenge}
