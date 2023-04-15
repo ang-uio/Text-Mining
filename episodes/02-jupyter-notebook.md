@@ -4,8 +4,6 @@ This course teaches programming in Python to text mine. It uses the application 
 
 Download and install [Anaconda](https://www.anaconda.com/) (free and easy to install). Open Anaconda, launch Jupyter Notebook from Anaconda, and select new Notebook in Python. 
 
-![png](/fig/start-notebook.png)
-
 ![Start new notebook](/fig/start-notebook.png)
 
 Once the new notebook opens you can give it a name by changing the word "Untitled" in the first line of the new notebook that opens up. You can see and change the location for where the notebook is saved in the browser window, see also the finder menu. 
