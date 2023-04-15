@@ -13,3 +13,7 @@ Once the new notebook opens you can give it a name by changing the word "Untitle
 You will see the first cell in your new notebook.  You can enter python code into this cell and press "Run" as long as it is marked as "Code" in the menu at the top of your notebook.  This will run your code and you will see any output created by the code immediately below it.
 
 ![png](/fig/fovertime.png)
+
+![png](/fig/start-notebook.png)
+
+![png](/fig/new-notebook.png)
