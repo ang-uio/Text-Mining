@@ -53,3 +53,7 @@ text4.collocations() # inaugurals
 text8.collocations() # personals
 ```
 We have the option to specify measures for exactly how collocations are scored and retrieved as we will see in the section on collocations.
+
+![Start new notebook](/fig/start-notebook.png)
+
+![Open new notebook](/fig/new-notebook.png)
