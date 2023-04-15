@@ -57,7 +57,6 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
 > > finder.nbest(bigram_measures.likelihood_ratio, 7)
 > > ~~~
 ```
-```
 [('United', 'States'),
  ('fellow', 'citizens'),
  ('let', 'us'),
