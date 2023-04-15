@@ -1,13 +1,3 @@
----
-title: "Introduction to Text Mining"
-objectives:
-- "Get an overview of what Text Mining is"
-- "Get an overview of central types and tools for Text Mining"
-keypoints:
-- "Text mining describes a range of techniques to extract and analyse data from large digital text corpora."
-
----
-
 ## Introduction to Text Mining
 
 [What is text mining?](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/)
