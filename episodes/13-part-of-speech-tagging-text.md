@@ -1,22 +1,10 @@
----
-title: "Part-of Speech Tagging Text"
-questions:
-- "How can I extract words that have a particular part of speech (POS) such as a noun or a verb?"
-- "How can I visualise those extracted words?"
-objectives:
-- "To understand what a part-of-speech (POS) is."
-- "To use a POS tagger to lable a corpus."
-- "To extract words with a specific POS."
-- "To visualise the extracted words using a plot of frequence distribution and a word cloud." 
+## Part-of-Speech Tagging Text
 
-keypoints:
+Keypoints:
 - "We use a NLTK's part-of-speech tagger, ```averaged_perceptron_tagger```, to label each word with part of speech,  tense, number, (plural/singular) and case."
 - "We have used the text from the US Presidential Inaugaral speeches."
 - "We then extracted all nouns both plural (NNS) and singular (NN)."
 - "We then visualise the nouns from these speeches using a plot of frequence distribution and a word cloud."
----
-
-## Part-of-Speech Tagging Text
 
 In text mining it can be useful to extract words that have a particular part of speech (POS) such as a noun or a verb. For example extracting all proper nouns can give use names and locations. This is done using a POS-tagger. The POS-tag of a word is a label of the word indicating its part of speech as well as grammatical categories such as tense, number (plural/singular) and case. POS tagging is the process of automatically determining the POS-tags of the tokens in a corpus.
 
