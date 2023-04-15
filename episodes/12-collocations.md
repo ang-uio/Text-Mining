@@ -1,20 +1,8 @@
----
-title: "Collocations"
-questions:
-- "How can I see what terms are often used together in a text or corpus?"
-objectives:
-- "We want to see words that collocate, occur together more often than by chance."
-- "We will use the US Presidential Inaugural Addresses which are provided with NLTK."
-- "We will see what words co-occur within five words of each other."
-- "We will then see which words appear more than ten times together."
-- "We will then look at a measure to score the likelihood of these collocations being unusual." 
+## Collocations
 
-keypoints:
+Keypoints:
 - "We used NLTK's ```BigramAssocMeasures()``` and ```BigramCollocationFinder``` to find the words commonly found together in this document set."
 - "We then scored these collocations using ```bigram_measures.likelihood_ratio``` "
----
-
-## Collocations
 
 We may want to see what terms are often used together. We can do this by looking for collocations in a text, i.e. two word tokens occurring together in the text more often than would be expected by chance.
 
@@ -78,6 +66,3 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
  ('Let', 'us'),
  ('men', 'women')]
 ```
-
-{: .solution}
-{: .challenge}
