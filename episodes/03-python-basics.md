@@ -180,21 +180,21 @@ for key, value in pets.items():
     mice 33
 
 
-> ### Task 1: Printing text
+> ## Task 1: Printing text
 >
 > Print a bit of text of your choice using print()
 >
-> > ### Answer
+> > ## Answer
 > > ```python
 > > print("Humpty Dumpty sat on the wall")
 > > ```
 > >     Humpty Dumpty sat on the wall
 
-> ### Task 2: Create a list
+> ## Task 2: Create a list
 >
 > Create a list containing different first names, iterate through them
 >
-> > ### Answer
+> > ## Answer
 > > ```python
 > > names = ['Mary', 'John', 'Bob']
 > > for name in names:
