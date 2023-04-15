@@ -1,17 +1,8 @@
----
-title: "Tokens in Context: Concordance Lists"
-questions:
-- "What is a concordance list?"
-- "How can a concordance list be created for a particular search term?"
-objectives:
-- "Understand what a concordance list is."
-- "Learn how to create one."
-keypoints:
+## Concordance Analysis or Keywords in Context (KWIC)
+
+Keypoints:
 - "A concordance list is a list of all contexts in which a particular token appears in a corpus or text."
 - "A concordance list can be created using the ``concordance()``` method of the ```Text``` class in NLTK."
----
-
-## Concordance Analysis or Keywords in Context (KWIC)
 
 Next, we will display concordances for a particular token, i.e. all contexts a particular token appears in. We can do this by first importing the ```Text``` class, a wrapper which supports exploration and analysis through a variety of analyses, including by concordancing. See full description of ```Text``` class functionality at [NLTK](https://www.nltk.org/api/nltk.text.Text.html). The concordance list of a token is displayed using the ```concordance()``` method as shown below.
 
@@ -81,7 +72,6 @@ er and elder sister were lepers , and he himself became a leper at 30 years of
 one year after she was affected , and he suffered from leprosy . no . 7.-the c
 ied . afterwards , at the age of 43 , he him- self was attacked with leprosy .
 ```
-{: .output}
 
 You can specify the number of lines using an additional ```lines``` parameter, e.g.:
 
@@ -98,6 +88,3 @@ t.concordance('he',lines=170)
 > > ~~~python
 > > t.concordance('great')
 > > ~~~
-
-{: .solution}
-{: .challenge}
