@@ -73,8 +73,6 @@ lower_corpus_tokens[0:10]
 > > print(corpus_tokens[:30])
 > > ~~~
 > >
-> {: .solution}
-{: .challenge}
 
 > ## Task 2: Print slice of lowercase tokens in list
 >
