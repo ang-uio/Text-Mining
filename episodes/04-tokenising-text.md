@@ -1,16 +1,9 @@
----
-title: "Tokenising Text"
-questions:
-- "What is tokenisation?"
-- "How can a string of raw text be tokenised?"
-objectives:
-- "Learn how to tokenise text"
-keypoints:
-- "Tokenisation means to split a string into separate words and punctuation, for example to be able to count them."
-- "Text can be tokenised using a tokeniser, e.g. the punkt tokeniser in NLTK."
----
 ## Tokenising Text
 
+Keypoints:
+- "Tokenisation means to split a string into separate words and punctuation, for example to be able to count them."
+- "Text can be tokenised using a tokeniser, e.g. the punkt tokeniser in NLTK."
+- 
 ### But first ... importing packages
 
 Python has a selection of pre-written code that can be used. These come as in built functions and a library of packages of modules. We have already used the in-built function ```print()```.  In-built functions are available as soon as you start python. There is also a (software) library of modules that contain other functions, but these modules need to be imported.
@@ -71,7 +64,3 @@ lower_humpty_tokens[0:6]
 > > print(lower_humpty_tokens[12])
 > > ~~~
 > >     fall
-> {: .solution}
-{: .challenge}
-
-{% include links.md %}
