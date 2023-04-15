@@ -1,17 +1,8 @@
----
-title: "Lexical Dispersion Plot"
-questions:
-- "How can I measure how frequently a word appears across the parts of a corpus?"
-- "How can I plot the occurrences of a word and how many words from the beginning of the corpus it appears?"
-objectives:
-- "Learn how to plot the occurances of specific words as they appear across a document or a corpus."
-- "We will use the US Presidential Inaugural Addresses which are provided with NLTK."
-keypoints:
+## Lexical Dispersion Plot
+
+Keypoints:
 - "Lexical dispersion is a visualisation that allows us to see where a particular term appears across a document or set of documents"
 - "We used NLTK's ```dispersion_plot``` ."
----
-
-## Lexical Dispersion Plot
 
 We can plot lexical dispersion of particular tokens. Lexical dispersion is a measure of how frequently a word appears across the parts of a corpus. This plot notes the occurrences of a word and how many words from the beginning of the corpus it appears (word offsets). This is particularly useful for a corpus that covers a longer time period and for which you want to analyse how specific terms were used more or less frequently over time.
 
