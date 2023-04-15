@@ -1,16 +1,8 @@
----
-title: "Plotting Frequency over Time"
-questions:
-- "How can I extract and plot the frequency of specific terms over time?"
-objectives:
-- "We will use a NLTK’s ConditionalFreqDist class to extract the frequency of defined words."
-- "We will use the US Presidential Inaugural Addresses which are provided with NLTK."
-keypoints:
+## Plotting Frequency over Time
+
+Keypoints:
 - "Here we extracted the terms and the years from the files using NLTK's ```ConditionalFreqDist``` class from the ```nltk.probability``` package"
 - "We then plotted these on a graph to visualise how the use changes over time"
----
-
-## Plotting Frequency over Time
 
 Similarly to lexical dispersion, you can also plot frequency of terms over time.  This is similarly to the [Google n-gram visualisation](https://books.google.com/ngrams) for the Google Books corpus but we will show you how to do something similar for your own corpus, such as the inaugural corpus.
 
@@ -70,8 +62,6 @@ cfd.plot()
 > > cfd.plot()
 > > ~~~
 > >
-> {: .solution}
-{: .challenge}
     
 > ## Task 2: See how the plot changes when choosing different target words.
 > > ## Answer
@@ -86,5 +76,3 @@ cfd.plot()
 > > cfd.plot()
 > > ~~~
 > >
-> {: .solution}
-{: .challenge}
