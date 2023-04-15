@@ -1,18 +1,9 @@
----
-title: "Visualising Frequency Distributions"
-questions:
-- "How can I draw a frequency distribution of the most frequent words in a collection?"
-- "How can I visualise this data as a word cloud."
-objectives:
-- "Learn how to draw frequency distributions of tokens in text."
-- "Learn how to create a word cloud showing the most frequent words in the text."
-keypoints:
+## Visualising Frequency Distributions of Tokens in Text
+
+Keypoints:
 - "A frequency distribution can be created using the ```plot()``` method."
 - "In this session you have also learned how to clean data by removing stopwords and other types of tokens from the text."
 - "A word cloud can be used to visualise tokens in text and their frequency in a different way."
----
-
-## Visualising Frequency Distributions of Tokens in Text
 
 #### Graph
 The ```plot()``` method can be called to draw the frequency distribution as a graph for the most common tokens in the text.
@@ -96,7 +87,3 @@ plt.show()
 > > plt.show()
 > > ~~~
 > > ![New word cloud](../fig/wordcloud1.png)
-> {: .solution}
-{: .challenge}
-
-{% include links.md %}
