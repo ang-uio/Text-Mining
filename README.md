@@ -1,3 +1,3 @@
-This is a workshop in text mining using Python programming, as well as Voyant Tools and DH-Lab notebooks and apps.
+This is a workshop in text mining using Python programming, as well as Voyant Tools and Jupyter Notebooks with code examples and apps from DH-Lab .
 
-It was adapted from the Library Carpentry: Data & Text Mining: https://librarycarpentry.org/lc-tdm/aio/index.html
+The episodes on programming with Python to text mine are adapted from the Library Carpentry: Data & Text Mining: https://librarycarpentry.org/lc-tdm/aio/index.html
