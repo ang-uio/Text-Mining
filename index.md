@@ -52,28 +52,16 @@ Recommended articles:
 
 ## Overview of workshop episodes:
 
-[Intro to Jupyter](episodes/02-jupyter-notebook.md)
-
-[Python Fundamentals](episodes/03-python-basics.md)
-
-[Tokenising Text](episodes/04-tokenising-text.md)
-
-[Data Preprocessing](episodes/05-preprocessing-dataset.md)
-
-[Concordances](episodes/06-concordances.md)
-
-[Regular Expressions](episodes/07-regular-expression-search.md)
-
-[Counting Tokens](episodes/08-counting-tokens.md)
-
-[Frequency Distributions](episodes/09-frequency-distributions.md)
-
-[Lexical Dispersion Plot](episodes/10-lexical-dispersion-plot.md)
-
-[Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
-
-[Collocations](episodes/12-collocations.md)
-
-[Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
-
-[Exercises](episodes/exercises.md)
+- [Intro to Jupyter](episodes/02-jupyter-notebook.md)
+- [Python Fundamentals](episodes/03-python-basics.md)
+- [Tokenising Text](episodes/04-tokenising-text.md)
+- [Data Preprocessing](episodes/05-preprocessing-dataset.md)
+- [Concordances](episodes/06-concordances.md)
+- [Regular Expressions](episodes/07-regular-expression-search.md)
+- [Counting Tokens](episodes/08-counting-tokens.md)
+- [Frequency Distributions](episodes/09-frequency-distributions.md)
+- [Lexical Dispersion Plot](episodes/10-lexical-dispersion-plot.md)
+- [Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
+- [Collocations](episodes/12-collocations.md)
+- [Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
+- [Exercises](episodes/exercises.md)
