@@ -44,4 +44,4 @@ plt.figure(figsize=(12, 9))
 targets=['citizens', 'democracy', 'freedom', 'duties', 'America']
 dispersion_plot(inaugural_texts, targets)
 ```
-https://ang-uio.github.io/text-mining/
+[Index](https://ang-uio.github.io/text-mining/)
