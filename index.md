@@ -11,6 +11,7 @@
 [Collocations](episodes/12-collocations.md)
 [Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
 [Exercises](episodes/exercises.md)
+[About](episodes/01-textmining-intro.md)
 
 ## Introduction to Text Mining
 
