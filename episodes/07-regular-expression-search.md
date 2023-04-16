@@ -1,8 +1,8 @@
 ## Searching Text with Regular Expressions
 
 Keypoints:
-- "To search for tokens in text using regular expressions you need the ```re``` module and its ```search``` function."
-- "You will need to learn how to construct regular expressions.  E.g. you can use a wildcard ```*``` or you can use a range of letters, e.g. ```[ae]``` (for a or e), ```[a-z]``` (for a to z), or numbers, e.g. ```[0-9]``` (for all single digits) etc.  Regular expressions can be very powerful if used correctly.  To find all mentions of the words ```woman``` or ```women``` you need to use the following regular expression ```wom[ae]n```."
+- To search for tokens in text using regular expressions you need the ```re``` module and its ```search``` function.
+- You will need to learn how to construct regular expressions.  E.g. you can use a wildcard ```*``` or you can use a range of letters, e.g. ```[ae]``` (for a or e), ```[a-z]``` (for a to z), or numbers, e.g. ```[0-9]``` (for all single digits) etc.  Regular expressions can be very powerful if used correctly.  To find all mentions of the words ```woman``` or ```women``` you need to use the following regular expression ```wom[ae]n```.
 
 This section provides a taster to the use of regular expression searching.  For a more detailed overview and use of regular expressions, please refer to the chapter on [Regular Expressions for Detecting Word Patterns](https://www.nltk.org/book/ch03.html#sec-regular-expressions-word-patterns) in the NLKT textbook, as well as the Programming Historian lesson [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions).
 
@@ -69,3 +69,4 @@ Regural expressions can be very specific and we will not cover them in detail he
 > > print(maen_strings)
 > > ~~~
 
+[Index](https://ang-uio.github.io/text-mining/)
