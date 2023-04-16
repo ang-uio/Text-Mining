@@ -1,8 +1,8 @@
 ## Collocations
 
 Keypoints:
-- "We used NLTK's ```BigramAssocMeasures()``` and ```BigramCollocationFinder``` to find the words commonly found together in this document set."
-- "We then scored these collocations using ```bigram_measures.likelihood_ratio``` "
+- We can use NLTK's ```BigramAssocMeasures()``` and ```BigramCollocationFinder``` to find the words commonly found together in a document set.
+- We can score collocations using ```bigram_measures.likelihood_ratio```.
 
 We may want to see what terms are often used together. We can do this by looking for collocations in a text, i.e. two word tokens occurring together in the text more often than would be expected by chance.
 
@@ -65,3 +65,4 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
  ('Let', 'us'),
  ('men', 'women')]
 ```
+[Index](https://ang-uio.github.io/text-mining/)
