@@ -68,8 +68,8 @@ Recommended articles:
 - [Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
 - [Collocations](episodes/12-collocations.md)
 - [Part-of-Speech-Tagging (POS)](episodes/13-part-of-speech-tagging-text.md)
-- [Voyant Tools](episodes/14-textmine-voyant.md) - needs build
-- [DH-Lab Jupyter Notebooks](episodes/15-textmine-dh-lab.md) - needs build
-- [DH-Lab apps](episodes/16-textmine-dh-lab-app.md) - needs build
+- [Voyant Tools](episodes/14-textmine-voyant.md)
+- [DH-Lab Jupyter Notebooks](episodes/15-textmine-dh-lab.md)
+- [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)
 - [Exercises](episodes/exercises.md)
 - [About](episodes/01-textmining-intro.md)
