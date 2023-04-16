@@ -89,4 +89,4 @@ t.concordance('he',lines=170)
 > > t.concordance('great')
 > > ~~~
 
-[Index](index.md)
+[Index](https://ang-uio.github.io/Textmining/)
