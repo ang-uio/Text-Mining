@@ -1,8 +1,8 @@
 ## Concordance Analysis or Keywords in Context (KWIC)
 
 Keypoints:
-- "A concordance list is a list of all contexts in which a particular token appears in a corpus or text."
-- "A concordance list can be created using the ``concordance()``` method of the ```Text``` class in NLTK."
+- A concordance list is a list of all contexts in which a particular token appears in a corpus or text.
+- A concordance list can be created using the ``concordance()``` method of the ```Text``` class in NLTK.
 
 Next, we will display concordances for a particular token, i.e. all contexts a particular token appears in. We can do this by first importing the ```Text``` class, a wrapper which supports exploration and analysis through a variety of analyses, including by concordancing. See full description of ```Text``` class functionality at [NLTK](https://www.nltk.org/api/nltk.text.Text.html). The concordance list of a token is displayed using the ```concordance()``` method as shown below.
 
@@ -88,3 +88,5 @@ t.concordance('he',lines=170)
 > > ~~~python
 > > t.concordance('great')
 > > ~~~
+
+[Index](https://ang-uio.github.io/text-mining/)
