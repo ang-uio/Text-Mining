@@ -1,8 +1,9 @@
 ## Counting Tokens in Text
 
 Keypoints:
-- "To count tokens, one can make use of NLTK's ```FreqDist``` class from the ```probability``` package. The ```N()``` method can then be used to count how many tokens a text or corpus contains."
-- "Counts for a specific token can be obtained using ```fdist[\"token\"]```."
+- To count tokens, one can make use of NLTK's ```FreqDist``` class from the ```probability``` package. The ```N()``` method can then be used to count how many tokens a text or corpus contains.
+- Counts for a specific token can be obtained using ```fdist[\"token\"]```."
+
 You can also do other useful things like count the number of tokens in a text, determine the number and percentage count of particular tokens and plot the count distributions as a graph. To do this we have to import the ```FreqDist``` class from the NLTK ```probability``` package.  When calling this class, a list of tokens from a text or corpus needs to be specified as a parameter in brackets.
 
 ```python
@@ -53,3 +54,5 @@ Frequency counts of tokens are useful to compare different corpora in terms of o
 > > ~~~python
 > > fdist.freq('he')
 > > ~~~
+
+[Index](https://ang-uio.github.io/text-mining/)
