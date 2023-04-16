@@ -88,4 +88,4 @@ plt.show()
 > > ~~~
 > > ![New word cloud](../fig/wordcloud1.png)
 
-[Index](index.md)
+[Index](https://ang-uio.github.io/Textmining/)
