@@ -1,8 +1,8 @@
 ## Tokenising Text
 
 Keypoints:
-- "Tokenisation means to split a string into separate words and punctuation, for example to be able to count them."
-- "Text can be tokenised using a tokeniser, e.g. the punkt tokeniser in NLTK."
+- Tokenisation means to split a string into separate words and punctuation, for example to be able to count them.
+- Text can be tokenised using a tokeniser, e.g. the punkt tokeniser in NLTK.
 
 ### But first ... importing packages
 
@@ -64,3 +64,5 @@ lower_humpty_tokens[0:6]
 > > print(lower_humpty_tokens[12])
 > > ~~~
 > >     fall
+
+[Index](https://ang-uio.github.io/text-mining/)
