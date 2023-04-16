@@ -1,6 +1,6 @@
 ## Introduction to Text Mining with DH-Lab with apps
 
-Keypoihnts:
+Keypoints:
 
 To use an app to text mine the National Library’s digitized collections:
 
