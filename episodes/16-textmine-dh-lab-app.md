@@ -11,4 +11,4 @@ To use an app to text mine the National Library’s digitized collections:
 - You first need to build a corpus using the corpus app. 
 - You can then drag and drop the corpus you build to the app for the type of text mining you want to do.
 
-[Index](index.md)
+[Index](https://ang-uio.github.io/Textmining/)
