@@ -1,10 +1,9 @@
 ## Part-of-Speech Tagging Text
 
 Keypoints:
-- "We use a NLTK's part-of-speech tagger, ```averaged_perceptron_tagger```, to label each word with part of speech,  tense, number, (plural/singular) and case."
-- "We have used the text from the US Presidential Inaugaral speeches."
-- "We then extracted all nouns both plural (NNS) and singular (NN)."
-- "We then visualise the nouns from these speeches using a plot of frequence distribution and a word cloud."
+- We can use a NLTK's part-of-speech tagger, ```averaged_perceptron_tagger```, to label each word with part of speech,  tense, number, (plural/singular) and case.
+- We can extract all nouns from a corpus both plural (NNS) and singular (NN).
+- We can visualise the nouns from a corpus using a plot of frequence distribution and a word cloud. We can do the same for other POS.
 
 In text mining it can be useful to extract words that have a particular part of speech (POS) such as a noun or a verb. For example extracting all proper nouns can give use names and locations. This is done using a POS-tagger. The POS-tag of a word is a label of the word indicating its part of speech as well as grammatical categories such as tense, number (plural/singular) and case. POS tagging is the process of automatically determining the POS-tags of the tokens in a corpus.
 
@@ -220,3 +219,5 @@ plt.show()
 > [Measuring things](https://www.nltk.org/book/ch01.html#sec-computing-with-language-texts-and-words): Count vocabulary and unique vocabulary items. Measure the lexical richness, identify long words and find their frequency distributions. You can see the example code to follow in the [NLTK textbook](https://www.nltk.org/book/ch01.html#sec-computing-with-language-simple-statistics). 
 > 
 > Compare the results from your searches. Are there any striking findings?
+
+[Index](https://ang-uio.github.io/text-mining/)
