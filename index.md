@@ -41,7 +41,9 @@ Learning a programming language is like learning any new language. It requires c
 > Get a feel for how Python code can be used to text mine.
 
 ## Recommended readings
-Recommended textbooks: [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/) and [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html). The first chapters have good introductions: ["Language Processing and Python"](https://www.nltk.org/book/ch01.html) and ["What you should know"](https://www.humanitiesdataanalysis.org/introduction-cook-books/notebook.html#what-you-should-know) on variables, strings, loops, lists, dictionaries, conditional expressions (if, elif, else), and reading files. 
+Recommended textbooks: 
+[Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/) and [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html). The first chapters have good introductions: ["Language Processing and Python"](https://www.nltk.org/book/ch01.html) and ["What you should know"](https://www.humanitiesdataanalysis.org/introduction-cook-books/notebook.html#what-you-should-know) on variables, strings, loops, lists, dictionaries, conditional expressions (if, elif, else), and reading files. 
+
 Recommended articles:
 [A Beginner's Guide to Using Voyant for Digital Theme Analysis](https://hcommons.org/deposits/item/hc:49487/)
 [The Rise of Health. A Collocation Analysis of Conceptual Changes in News Discourse, 1950-2010](https://www-berghahnjournals-com.ezproxy.uio.no/view/journals/contributions/17/2/choc170202.xml) (text mining the National Library of Norway)
