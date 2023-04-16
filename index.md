@@ -30,7 +30,7 @@ Quick look at DH-Lab Tools and [Voyant Tools](https://voyant-tools.org/) - optio
 
 More and more archives have their own tools to text mine their collections, with or without subscription. Some familiarity with programming is often necessary, typically in Python.
 
-Learning a programming language is like learning any new language. It requires copying, repeating, using a dictionary, practicing, learning enough of the "grammar" of the language to detect typos and mistakes.
+Learning a programming language is like learning any new language. It requires copying, repeating, using a dictionary, practicing, learning enough of the 'grammar' of the language to detect typos and mistakes.
 
 - Learn how to look things up ([textbooks](https://www.nltk.org/book/), [published tutorials](https://programminghistorian.org/en/lessons/?topic=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), [forums](https://stackoverflow.com/)).
 
@@ -65,3 +65,4 @@ Recommended articles:
 - [Collocations](episodes/12-collocations.md)
 - [Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
 - [Exercises](episodes/exercises.md)
+- [About](episodes/01-textmining-intro.md)
