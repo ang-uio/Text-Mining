@@ -11,7 +11,7 @@
 [Collocations](episodes/12-collocations.md)
 [Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
 [Named-Entity-Recognition (NER) DH-Lab app](https://dh.nb.no/apps/navn-og-steder/)
-[Topic Modelling Voyant Tool](https://voyant-tools.org/docs/#!/guide/topics) with Voyant Tools
+[Topic Modelling Voyant Tool](https://voyant-tools.org/docs/#!/guide/topics)
 [Topic modelling Dh-Lab app](https://dh.nb.no/apps/temaer/)
 [Exercises](episodes/exercises.md)
 [About](episodes/01-textmining-intro.md)
