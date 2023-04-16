@@ -4,9 +4,9 @@ This site contains a GitHub repository of files for a a workshop in text mining 
 
 The episodes on programming with Python to text mine are adapted from the Library Carpentry: Data & Text Mining: https://librarycarpentry.org/lc-tdm/aio/index.html
 
-[My GitHub profile](https://github.com/ang-uio)
+My [GitHub](https://github.com/ang-uio) profile
 
-[My University of Oslo Library profile](https://www.ub.uio.no/english/about/people/humsam/ang/index.html)
+My [University of Oslo Library](https://www.ub.uio.no/english/about/people/humsam/ang/index.html) profile
 
 I also maintain the UiO Library's webpages on text mining: 
 
