@@ -1,3 +1,7 @@
 ## Introduction to Text Mining with DH-Lab Jupyter Notebooks with example Python code 
 
 Keypoints:
+
+The [DH-Lab](https://www.nb.no/dh-lab/) at the National Library of Norway has written example code to text mine the National Library’s huge digitized collection, and it is developing web-based apps for a simpler introduction to text mining the National Library's collection. The code is written in Python and shared in Jupyter Notebook, and the apps are made using Streamlit, a free and open-source app framework in Python.
+
+Access DH-Lab Apps and Notebooks at [nb.no/dh-lab](https://www.nb.no/dh-lab/).
