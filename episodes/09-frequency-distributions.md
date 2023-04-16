@@ -1,9 +1,9 @@
 ## Visualising Frequency Distributions of Tokens in Text
 
 Keypoints:
-- "A frequency distribution can be created using the ```plot()``` method."
-- "In this session you have also learned how to clean data by removing stopwords and other types of tokens from the text."
-- "A word cloud can be used to visualise tokens in text and their frequency in a different way."
+- A frequency distribution can be created using the ```plot()``` method.
+- In this session you have also learned how to clean data by removing stopwords and other types of tokens from the text.
+- A word cloud can be used to visualise tokens in text and their frequency in a different way.
 
 #### Graph
 The ```plot()``` method can be called to draw the frequency distribution as a graph for the most common tokens in the text.
@@ -87,3 +87,5 @@ plt.show()
 > > plt.show()
 > > ~~~
 > > ![New word cloud](../fig/wordcloud1.png)
+
+[Index](https://ang-uio.github.io/text-mining/)
