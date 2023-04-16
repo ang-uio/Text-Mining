@@ -10,9 +10,9 @@
 [Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
 [Collocations](episodes/12-collocations.md)
 [Part-of-Speech-Tagging (POS)](episodes/13-part-of-speech-tagging-text.md)
-[Named-Entity-Recognition (NER)](episodes/15-textmine-dh-lab.md)
-[Topic Modelling Voyant Tool](episodes/14-textmine-voyant.md)
-[Topic modelling](episodes/16-textmine-dh-lab-app.md)
+[Named-Entity-Recognition (NER)](episodes/16-textmine-dh-lab-app.md)
+[Topic Modelling](episodes/14-textmine-voyant.md)
+[Sentiment Analsysis](episodes/15-textmine-dh-lab.md)
 [Exercises](episodes/exercises.md)
 [About](episodes/01-textmining-intro.md)
 
