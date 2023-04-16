@@ -53,3 +53,5 @@ text4.collocations() # inaugurals
 text8.collocations() # personals
 ```
 We have the option to specify measures for exactly how collocations are scored and retrieved as we will see in the section on collocations.
+
+[Index](https://ang-uio.github.io/text-mining/)
