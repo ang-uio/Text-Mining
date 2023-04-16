@@ -76,4 +76,4 @@ cfd.plot()
 > > cfd.plot()
 > > ~~~
 > >
-[Index](https://ang-uio.github.io/text-mining/)
+[Index](index.md)
