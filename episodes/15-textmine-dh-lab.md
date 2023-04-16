@@ -16,4 +16,4 @@ To run code to text mine the National Library’s digitized collections:
 - Begin at the top of the downloaded notebook and follow the instructions. 
 - Run all cells in the notebook.
 
-[Index](index.md)
+[Index](https://ang-uio.github.io/Textmining/)
