@@ -204,4 +204,4 @@ for key, value in pets.items():
 > >     John
 > >     Bob
 
-[Index](https://ang-uio.github.io/text-mining/)
+[Index](index.md)
