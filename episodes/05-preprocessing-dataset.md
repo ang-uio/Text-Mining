@@ -83,4 +83,4 @@ lower_corpus_tokens[0:10]
 > > print(lower_corpus_tokens[0:30])
 > > ~~~
 
-[Index](https://ang-uio.github.io/text-mining/)
+[Index](index.md)
