@@ -65,4 +65,4 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
  ('Let', 'us'),
  ('men', 'women')]
 ```
-[Index](https://ang-uio.github.io/text-mining/)
+[Index](index.md)
