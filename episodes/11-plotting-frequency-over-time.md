@@ -1,8 +1,8 @@
 ## Plotting Frequency over Time
 
 Keypoints:
-- "Here we extracted the terms and the years from the files using NLTK's ```ConditionalFreqDist``` class from the ```nltk.probability``` package"
-- "We then plotted these on a graph to visualise how the use changes over time"
+- We can extract the terms and the years from the files using NLTK's ```ConditionalFreqDist``` class from the ```nltk.probability``` package.
+- We can then plot these on a graph to visualise how the use changes over time.
 
 Similarly to lexical dispersion, you can also plot frequency of terms over time.  This is similarly to the [Google n-gram visualisation](https://books.google.com/ngrams) for the Google Books corpus but we will show you how to do something similar for your own corpus, such as the inaugural corpus.
 
@@ -76,3 +76,4 @@ cfd.plot()
 > > cfd.plot()
 > > ~~~
 > >
+[Index](https://ang-uio.github.io/text-mining/)
