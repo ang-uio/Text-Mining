@@ -2,8 +2,8 @@
 
 Keypoints:
 - Voyant is user friendly and accepts a large variety of formats with little preprocessing.
-- Voyant offers a range of rich plots, graphs, and networks. 
-
+- Voyant offers a rich range of plots, graphs, and networks to visualize word frequencies, distributions, proximities, and collocates.
+- The tool menu is extensive and includes: Cirrus (word cloud based on frequencies), Trends (word dispersions), KWIC (concordances), Topics (topic modelling with term clusters), and Correlations.
 
 [Voyant Tools](https://voyant-tools.org/) is an open-source, web-based application for performing automated computational text analysis on documents. It can be used to analyze online texts you link to and texts you upload, and it accepts a number of different file formats, such as docx, pdf, txt, etc. Voyant is popular among scholars in the digital humanities and has a large, international user base. It does not perform linguistical text analysis such as part-of-speech tagging or named entity recognition, but is highly user friendly, provides nice visualizations, and has a rich functionality. See [the list of tools](https://voyant-tools.org/docs/#!/guide/tools) here.
 
