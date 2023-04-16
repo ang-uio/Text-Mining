@@ -43,8 +43,7 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
      (',', 'and')]
 
 
-> ## Task: Change the code above to display collocations in the inaugural speeches filtered
-> after stopwords, punctuation and single digits have been removed.
+> ## Task: Change the code above to display collocations in the inaugural speeches after stopwords, punctuation and single digits have been removed.
 >
 > > ## Answer
 > > ~~~python
