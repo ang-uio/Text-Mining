@@ -46,9 +46,8 @@ Learning a programming language is like learning any new language. It requires c
 
 ## Recommended readings
 Recommended textbooks: 
-- [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
-- [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html). 
-In particular: ["Language Processing and Python"](https://www.nltk.org/book/ch01.html) and ["What you should know"](https://www.humanitiesdataanalysis.org/introduction-cook-books/notebook.html#what-you-should-know) on variables, strings, loops, lists, dictionaries, conditional expressions (if, elif, else), and reading files. 
+- [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/). In particular ["Language Processing and Python"](https://www.nltk.org/book/ch01.html).
+- [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html). In particular ["What you should know"](https://www.humanitiesdataanalysis.org/introduction-cook-books/notebook.html#what-you-should-know) on variables, strings, loops, lists, dictionaries, conditional expressions (if, elif, else), and reading files. 
 
 Recommended articles:
 - [A Beginner's Guide to Using Voyant for Digital Theme Analysis](https://hcommons.org/deposits/item/hc:49487/)
