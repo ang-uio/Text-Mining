@@ -220,4 +220,4 @@ plt.show()
 > 
 > Compare the results from your searches. Are there any striking findings?
 
-[Index](https://ang-uio.github.io/text-mining/)
+[Index](index.md)
