@@ -12,5 +12,5 @@ Acknowledging the limitations of its pre-programmed functionalities, Voyant welc
 Access Voyant Tools at [voyant-tools.org](https://voyant-tools.org/)
 
 Get started:
-- Voyant has an extensive help menu for all the functions, and also a tutorial/workshop page. 
+- Voyant has an extensive [help menu](https://voyant-tools.org/docs/#!/guide/start) for all the functions, and also a [tutorial/workshop page](https://voyant-tools.org/docs/#!/guide/tutorial). 
 - [A Beginner’s Guide to Using Voyant for Digital Theme Analysis](https://hcommons.org/deposits/item/hc:49487/) (2022) by Randa El Khatib and Shawna Ross, published at the Humanities Commons, provides a case-based illustration for how to use Voyant in literary criticism to carry out a digital thematic analysis.
