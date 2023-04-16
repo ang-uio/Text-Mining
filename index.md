@@ -10,6 +10,9 @@
 [Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
 [Collocations](episodes/12-collocations.md)
 [Part-of-Speech-Tagging](episodes/13-part-of-speech-tagging-text.md)
+[Named-Entity-Recognition (NER)](https://dh.nb.no/apps/navn-og-steder/) with DH-Lab app
+[Topic Modelling](https://voyant-tools.org/docs/#!/guide/topics) with Voyant Tools
+[Topic modelling](https://dh.nb.no/apps/temaer/) with DH-Lab app
 [Exercises](episodes/exercises.md)
 [About](episodes/01-textmining-intro.md)
 
