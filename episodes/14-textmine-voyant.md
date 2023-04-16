@@ -9,8 +9,8 @@ Keypoints:
 
 Acknowledging the limitations of its pre-programmed functionalities, Voyant welcomes users to develop their own tools using Voyant's functionality and code, and endorses the use of other tools, in particular Python with Jupyter Notebook.
 
-Access Voyant Tools at [voyant-tools.org](https://voyant-tools.org/)
+Access Voyant Tools at [voyant-tools.org](https://voyant-tools.org/).
 
 Get started:
-- Voyant has an extensive [help menu](https://voyant-tools.org/docs/#!/guide/start) for all the functions, and also a [tutorial/workshop page](https://voyant-tools.org/docs/#!/guide/tutorial). 
+- Voyant has an extensive [help menu](https://voyant-tools.org/docs/#!/guide/start) for all the functions, and also a [tutorial/workshop](https://voyant-tools.org/docs/#!/guide/tutorial) page. 
 - [A Beginner’s Guide to Using Voyant for Digital Theme Analysis](https://hcommons.org/deposits/item/hc:49487/) (2022) by Randa El Khatib and Shawna Ross, published at the Humanities Commons, provides a case-based illustration for how to use Voyant in literary criticism to carry out a digital thematic analysis.
