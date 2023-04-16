@@ -1,8 +1,8 @@
 ## Lexical Dispersion Plot
 
 Keypoints:
-- "Lexical dispersion is a visualisation that allows us to see where a particular term appears across a document or set of documents"
-- "We used NLTK's ```dispersion_plot``` ."
+- Lexical dispersion is a visualisation that allows us to see where a particular term appears across a document or set of documents.
+- We can use NLTK's ```dispersion_plot``` for this.
 
 We can plot lexical dispersion of particular tokens. Lexical dispersion is a measure of how frequently a word appears across the parts of a corpus. This plot notes the occurrences of a word and how many words from the beginning of the corpus it appears (word offsets). This is particularly useful for a corpus that covers a longer time period and for which you want to analyse how specific terms were used more or less frequently over time.
 
@@ -27,6 +27,7 @@ To create the lexical dispersion plot for this corpus you also need to load ```d
 ```python
 from nltk.draw.dispersion import dispersion_plot
 
+[Index](https://ang-uio.github.io/text-mining/)
 plt.figure(figsize=(12, 9)) # command used to increase the size of the plot using width and hight specifications
 targets=['great','good','tax','work','change']
 dispersion_plot(inaugural_texts, targets)
