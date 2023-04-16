@@ -65,4 +65,4 @@ lower_humpty_tokens[0:6]
 > > ~~~
 > >     fall
 
-[Index](index.md)
+[Index](https://ang-uio.github.io/Textmining/)
