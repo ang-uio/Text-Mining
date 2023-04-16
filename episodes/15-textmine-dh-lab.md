@@ -15,3 +15,5 @@ To run code to text mine the National Library’s digitized collections:
 - Open Anaconda, launch Jupyter Notebook from Anaconda, and open the downloaded notebook. 
 - Begin at the top of the downloaded notebook and follow the instructions. 
 - Run all cells in the notebook.
+
+[Index](index.md)
