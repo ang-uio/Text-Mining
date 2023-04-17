@@ -10,7 +10,7 @@
 [Plotting Frequency over Time](episodes/11-plotting-frequency-over-time.md)
 [Collocations](episodes/12-collocations.md)
 [Part-of-Speech-Tagging (POS)](episodes/13-part-of-speech-tagging-text.md)
-[Named-Entity-Recognition (NER)](episodes/16-textmine-dh-lab-app.md)
+[Named-Entity-Recognition (NER)](https://ang-uio.github.io/Textmining/episodes/16-textmine-dh-lab-app.html#named-entity-recognition-ner)
 [Topic Modeling](https://ang-uio.github.io/Textmining/episodes/14-textmine-voyant.html#topic-modeling)
 [Sentiment Analsysis](https://ang-uio.github.io/Textmining/episodes/15-textmine-dh-lab.html#sentiment-analysis)
 [Exercises](episodes/exercises.md)
