@@ -12,7 +12,7 @@
 [Part-of-Speech-Tagging (POS)](episodes/13-part-of-speech-tagging-text.md)
 [Named-Entity-Recognition (NER)](episodes/16-textmine-dh-lab-app.md)
 [Topic Modeling](https://ang-uio.github.io/Textmining/episodes/14-textmine-voyant.html#topic-modeling)
-[Sentiment Analsysis](episodes/15-textmine-dh-lab.md)
+[Sentiment Analsysis](https://ang-uio.github.io/Textmining/episodes/15-textmine-dh-lab.html#sentiment-analysis)
 [Exercises](episodes/exercises.md)
 [About](episodes/01-textmining-intro.md)
 
