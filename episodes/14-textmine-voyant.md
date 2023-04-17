@@ -15,7 +15,7 @@ Get started:
 - Voyant has an extensive [help menu](https://voyant-tools.org/docs/#!/guide/start) for all the functions, and also a [tutorial/workshop](https://voyant-tools.org/docs/#!/guide/tutorial) page. 
 - [A Beginner’s Guide to Using Voyant for Digital Theme Analysis](https://hcommons.org/deposits/item/hc:49487/) (2022) by Randa El Khatib and Shawna Ross, published at the Humanities Commons, provides a case-based illustration for how to use Voyant in literary criticism to carry out a digital thematic analysis.
 
-## Topic Modelling 
+## Topic Modeling 
 
 Topic modelling, sometimes referred to as “theme modelling”, is a method that enables analysis of words’ co-occurrence patterns in texts. Statistical calculations are performed by an algorithm, the output of which allows for grouping, or clustering, of words under the concept of a topic. Despite these clusters being nothing more than words grouped by statistical analysis, a researcher may glean interesting information about the thematic structure of texts through this method.
 
