@@ -15,4 +15,6 @@ To use an app to text mine the National Library’s digitized collections:
 
 Named Entity Recognition (NER) tries to find out whether a word is a named entity (NE) or not. Named entities are definite noun phrases that refer to specific types of individuals, such as organizations, persons, dates, and so on. Entity recognition is often performed using chunkers, and part-of-speech tags are often a very important feature when searching for chunks. NLTK provides a classifier that has already been trained to recognize and tag named entities; you can read more about it in the [NLTK textbook](https://www.nltk.org/book/ch07.html#named_entity_recognition_index_term). 
 
+DH-Lab uses spaCy, a [popular choice among developers](https://www.activestate.com/blog/natural-language-processing-nltk-vs-spacy/), instead of NLTK, which caters to researchers, in its [app for NER](). DH-Lab also offers a [Jupyter Notebook with Python code to to do NER and POS analysis](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial/3.0.ner_og_pos.html) with sPacy.
+
 [Index](https://ang-uio.github.io/Textmining/)
