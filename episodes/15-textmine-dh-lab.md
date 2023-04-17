@@ -16,4 +16,10 @@ To run code to text mine the National Library’s digitized collections:
 - Begin at the top of the downloaded notebook and follow the instructions. 
 - Run all cells in the notebook.
 
+## Sentiment Analysis
+
+Also known as “opinion mining”, sentiment analysis describes automated methods to identify affective states in data sets. This is done through systematic selection of expressions of subjective opinions and emotional evaluations in the material. Sentiment analysis is popular in marketing, advertising and to examine the tone of political communication, public debate, social media as well as studies of plot and genre in literary corpora. 
+
+Digital sentiment analysis uses word lists and data sets where words and expressions are given a score based on perceived emotional meaning in sentiment analysis of text data. NLTK provides a [sentiment package](https://www.nltk.org/api/nltk.sentiment.html). [Scientists at the University of Oslo](https://www.mn.uio.no/ifi/english/research/projects/sant/) have developed data sets for sentiment analysis in Norwegian, [NorSentLex](https://www.mn.uio.no/ifi/english/research/projects/sant/news/new-sant-resources.html): A Norwegian sentiment lexicon, indicating the prior positive or negative polarity of words. DH-Lab has written example code in Python using NorSentLex, to do a sentiment analysis of a text mine newspaper corpus in the digitized collection. See [example code shared in Jupyter Notebook](https://nationallibraryofnorway.github.io/digital_tekstanalyse/cookbook/4.0.sentiment_analysis_timeseries.html). 
+
 [Index](https://ang-uio.github.io/Textmining/)
