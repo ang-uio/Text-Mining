@@ -39,7 +39,7 @@ Learning a programming language is like learning any new language. It requires c
 
 - Learn how to look things up ([textbooks](https://ang-uio.github.io/Textmining/#recommended-readings), [published tutorials](https://programminghistorian.org/en/lessons/?topic=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), [forums](https://stackoverflow.com/)).
 
-> Learning goals: 
+> ###Learning goals:### 
 > 
 > - Get a sense of how the Python program works (the math behind it with strings and loops etc.).
 > 
