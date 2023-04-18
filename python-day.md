@@ -1181,3 +1181,5 @@ plt.show()
 > [Measuring things](https://www.nltk.org/book/ch01.html#sec-computing-with-language-texts-and-words): Count vocabulary and unique vocabulary items. Measure the lexical richness, identify long words and find their frequency distributions. You can see the example code to follow in the [NLTK textbook](https://www.nltk.org/book/ch01.html#sec-computing-with-language-simple-statistics). 
 > 
 > Compare the results from your searches. Are there any striking findings?
+
+[Index](index.md)
