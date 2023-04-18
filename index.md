@@ -31,7 +31,7 @@ Why text mining? Automated search strategies can provide an overview of patterns
 
 Text mining requires readable big data - a note on the value of platforms such as [NLTK](https://www.nltk.org/), a leading platform for building Python programs to work with human language data, and [DH-Lab](https://www.nb.no/dh-lab/), which facilitates text mining of the entire digitized collection of the National Library of Norway.
 
-Quick look at DH-Lab Tools and [Voyant Tools](https://voyant-tools.org/) - option to revert to these during the course.
+Quick look at DH-Lab Tools and [Voyant Tools](https://voyant-tools.org/docs/#!/guide/about) - option to revert to these during the course.
 
 More and more archives have their own tools to text mine their collections, with or without subscription. Some familiarity with programming is often necessary, typically in Python.
 
