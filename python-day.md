@@ -1122,7 +1122,7 @@ plt.show()
 > 
 > Compare the results from your searches. Are there any striking findings?
 >
-> ### Practice and review with some basic exercises from the Natural Language Toolkit (NLKT)
+## Practice and review with some basic exercises from the Natural Language Toolkit (NLKT)
 
 First, import ```nltk.book```. Recall that this is a collection of texts you can practice your text mining on that accompanies the [NLKT textbook](https://www.nltk.org/book/). This text collection is already wrapped with the ```Text``` class that supports a variety of exploration, e.g. concordancing, counting, and collocation discovery. 
 
@@ -1138,7 +1138,7 @@ text1.concordance('monstrous')
 ```python
 text2.concordance('monstrous')
 ```
-Your Turn: Try searching for other words and in some of the other texts included in ```nltk.book```. For example, search *Sense and Sensibility* for the word affection, using ```text2.concordance('affection')```. Search the book of Genesis to find out how long some people lived, using ```text3.concordance('lived')```. You could look at text4, the *Inaugural Address Corpus*, to see examples of English going back to 1789, and search for words like *nation, terror, god* to see how these words have been used differently over time. We've also included text5, the *NPS Chat Corpus*: search this for unconventional words like *im, ur, lol*. 
+Your Turn: Try searching for other words and in some of the other texts included in ```nltk.book```. For example, search *Sense and Sensibility* for the word affection, using ```text2.concordance('affection')```. Search the book of Genesis to find out how long some people lived, using ```text3.concordance('lived')```. You could look at text4, the *Inaugural Address Corpus*, to see examples of English going back to 1789, and search for words like *nation, terror, god* to see how these words have been used differently over time. Included is also text5, the *NPS Chat Corpus*: search this for unconventional words like *im, ur, lol*. 
 
 ```python
 text3.concordance('lived')
