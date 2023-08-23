@@ -40,7 +40,7 @@ Your Turn: Pick another pair of words and compare their usage in two different t
 We use the term len to get the length of something. Measure the length of some of the texts with len. 
 
 ```python
-len(text3) #book of Genesis
+len(text3) # book of Genesis
 ```
 
 Collocations are essentially just frequent bigrams (word pairs), except that we want to pay more attention to the cases that involve rare words and ignore stopwords. In particular, we want to find bigrams that occur more often than we would expect based on the frequency of the individual words. The collocations() function does this for us. 
