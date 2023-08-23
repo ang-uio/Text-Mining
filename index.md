@@ -25,7 +25,7 @@
 
 Why text mining? Automated search strategies can provide an overview of patterns and tendencies in large volumes of text. This may provide insight that would otherwise be difficult to achieve, time-consuming or both through conventional qualitative methods.
 
-## Please consult:
+## Please consult
 
 [Types of text mining and digital analysis of text](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html)
 
