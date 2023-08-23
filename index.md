@@ -14,7 +14,7 @@
 [Topic Modeling](https://ang-uio.github.io/Textmining/episodes/14-textmine-voyant.html#topic-modeling)
 [Sentiment Analsysis](https://ang-uio.github.io/Textmining/episodes/15-textmine-dh-lab.html#sentiment-analysis)
 [Python Day](python-day.md)
-[Review with some simple Exerecices] (episodes/review.md)
+[Review with some simple Exerecices](episodes/review.md)
 [About](episodes/01-textmining-intro.md)
 
 ## Introduction to Text Mining
