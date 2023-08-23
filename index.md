@@ -25,7 +25,7 @@
 
 Why text mining? Automated search strategies can provide an overview of patterns and tendencies in large volumes of text. This may provide insight that would otherwise be difficult to achieve, time-consuming or both through conventional qualitative methods.
 
-## Please consult:
+## Please consult the links and read the below:
 
 [Types of text mining and digital analysis of text](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html)
 
@@ -48,6 +48,8 @@ With a competence in Python, comes a deeper understanding of web applications fo
 > - Get a fundamental understanding for how Python code can be used to text mine.
 >
 > - Get a fundamental understanding for how the web applications from DH-Lab and Voyant can be used to text mine.
+>
+> - Get the fundamental competence required in Python and apps for text mining to define and conduct your own text mining project.
 
 ## Recommended and required readings:
 Book Chapters: 
