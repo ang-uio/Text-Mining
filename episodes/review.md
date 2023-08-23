@@ -1,4 +1,4 @@
-### Exercises from the Natural Language Toolkit (NLKT)
+### Practice and review with some basic exercises from the Natural Language Toolkit (NLKT)
 
 First, import ```nltk.book```, a collection of texts you can practice your text mining on that accompanies the [NLKT textbook](https://www.nltk.org/book/). This text collection is already wrapped with the ```Text``` class that supports a variety of exploration, e.g. concordancing, counting, and collocation discovery. 
 
