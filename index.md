@@ -25,7 +25,7 @@
 
 Why text mining? Automated search strategies can provide an overview of patterns and tendencies in large volumes of text. This may provide insight that would otherwise be difficult to achieve, time-consuming or both through conventional qualitative methods.
 
-## Please consult
+## Please consult:
 
 [Types of text mining and digital analysis of text](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html)
 
@@ -49,7 +49,7 @@ With a competence in Python, comes a deeper understanding of web applications fo
 >
 > - Get a fundamental understanding for how the web applications from DH-Lab and Voyant can be used to text mine.
 
-## Recommended and required readings
+## Recommended and required readings:
 Book Chapters: 
 - [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/). The book is recommended as a whole. Required chapter readings are [1. Language Processing and Python](https://www.nltk.org/book/ch01.html), [2. Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html), and [3. Processing Raw Text](https://www.nltk.org/book/ch03.html).
 - [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html). This book is also recommended as a whole. Required chapter readings are the sub chapters of DATA ANALYSIS ESSENTIALS, including the Introduction, Parsing and Manipulating Structured Data, and Exploring Texts using the Vector Space Model, see in particular ["What you should know"](https://www.humanitiesdataanalysis.org/introduction-cook-books/notebook.html#what-you-should-know)(on variables, strings, loops, lists, dictionaries, conditional expressions (if, elif, else), and reading files) and on [data formats](https://www.humanitiesdataanalysis.org/getting-data/notebook.html#plain-text) and [preprocesing](https://www.humanitiesdataanalysis.org/vector-space-model/notebook.html#text-preprocessing).
