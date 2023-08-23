@@ -71,5 +71,5 @@ Recommended articles:
 - [Voyant Tools](episodes/14-textmine-voyant.md)
 - [DH-Lab Jupyter Notebooks](episodes/15-textmine-dh-lab.md)
 - [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)
-- [Review with some simple Exerecices] (episodes/review.md)
+- [Review with some simple Exerecices](episodes/review.md)
 - [About](episodes/01-textmining-intro.md)
