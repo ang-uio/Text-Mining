@@ -14,7 +14,7 @@ text1.concordance('monstrous')
 ```python
 text2.concordance('monstrous')
 ```
-Your Turn: Try searching for other words and in some of the other texts included in ```nltk.book```. For example, search *Sense and Sensibility* for the word affection, using ```text2.concordance('affection')```. Search the book of Genesis to find out how long some people lived, using ```text3.concordance('lived')```. You could look at text4, the *Inaugural Address Corpus*, to see examples of English going back to 1789, and search for words like *nation, terror, god* to see how these words have been used differently over time. We've also included text5, the *NPS Chat Corpus*: search this for unconventional words like *im, ur, lol*. 
+Your Turn: Try searching for other words and in some of the other texts included in ```nltk.book```. For example, search *Sense and Sensibility* for the word affection, using ```text2.concordance('affection')```. Search the book of Genesis to find out how long some people lived, using ```text3.concordance('lived')```. You could look at text4, the *Inaugural Address Corpus*, to see examples of English going back to 1789, and search for words like *nation, terror, god* to see how these words have been used differently over time. Included is also text5, the *NPS Chat Corpus*: search this for unconventional words like *im, ur, lol*. 
 
 ```python
 text3.concordance('lived')
