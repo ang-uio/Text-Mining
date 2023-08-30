@@ -65,4 +65,5 @@ lower_humpty_tokens[0:6]
 > > ~~~
 > >     fall
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/05-preprocessing-dataset.html)
