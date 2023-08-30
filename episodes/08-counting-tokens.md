@@ -55,4 +55,5 @@ Frequency counts of tokens are useful to compare different corpora in terms of o
 > > fdist.freq('he')
 > > ~~~
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/09-frequency-distributions.html)
