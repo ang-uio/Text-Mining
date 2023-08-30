@@ -80,7 +80,7 @@ Articles:
 - [Practice Review - Simple Exerecices](episodes/review.md)
 - [About](episodes/01-textmining-intro.md)
 
-## Program: 
+### Program: 
 
 Part I: Getting started  
 9-9:15: Introduction: [What is text mining?](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/)
