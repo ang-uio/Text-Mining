@@ -33,13 +33,13 @@ Why text mining? Automated search strategies can provide an overview of patterns
 
 Text mining requires readable big data. In this course, we will pay particular note to the value of platforms such as [NLTK](https://www.nltk.org/), a leading platform for building Python programs to work with human language data, and [DH-Lab](https://www.nb.no/dh-lab/), which facilitates text mining of the entire digitized collection of the National Library of Norway. 
 
-More and more archives have their own tools to text mine their collections, with or without subscription. Some familiarity with programming is often necessary, typically in Python. Most of this course is therefore devoted to getting a fundamental competence of the Python programming langauge.
+More and more archives have their own programming or application tools to text mine their collections, with or without subscription. Some familiarity with programming is often necessary, typically in Python. Most of this course is therefore devoted to getting a fundamental competence of the Python programming langauge.
 
 Learning a programming language is like learning any new language. It requires copying, repeating, using a dictionary, practicing, learning enough of the 'grammar' of the language to detect typos and mistakes.
 
 A key in learning to master a programming language, is learning how to look things up. Therefore in this course you will become familiar with the practice of looking things up and becoming familiar with some of the most relevant ([textbooks](https://ang-uio.github.io/Textmining/#recommended-readings), [published tutorials](https://programminghistorian.org/en/lessons/?search=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), and [forums](https://stackoverflow.com/)).
 
-With a competence in Python, comes a deeper understanding of web applications for text mining, including [DH-Lab Tools](https://www.nb.no/dh-lab/) and [Voyant Tools](https://voyant-tools.org/docs/#!/guide/about) which this course will also introduce you to. 
+With a competence in Python, comes a deeper understanding of web applications for text mining, including those from [DH-Lab ](https://www.nb.no/dh-lab/) and [Voyant](https://voyant-tools.org/docs/#!/guide/about) which this course will also introduce you to. 
 
 > **Learning goals:**
 > 
