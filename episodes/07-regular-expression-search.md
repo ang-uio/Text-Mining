@@ -69,4 +69,5 @@ Regural expressions can be very specific and we will not cover them in detail he
 > > print(maen_strings)
 > > ~~~
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/08-counting-tokens.html)
