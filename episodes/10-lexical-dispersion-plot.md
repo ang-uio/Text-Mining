@@ -44,4 +44,5 @@ plt.figure(figsize=(12, 9))
 targets=['citizens', 'democracy', 'freedom', 'duties', 'America']
 dispersion_plot(inaugural_texts, targets)
 ```
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/11-plotting-frequency-over-time.html)
