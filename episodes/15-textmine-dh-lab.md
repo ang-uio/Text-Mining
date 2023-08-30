@@ -7,7 +7,7 @@ Keypoints:
 
 The [DH-Lab](https://www.nb.no/dh-lab/) at the National Library of Norway has written example code to text mine the National Library’s huge digitized collection, and it is developing web-based apps for a simpler introduction to text mining the National Library's collection. The code is written in Python and shared in Jupyter Notebook, and the apps are made using Streamlit, a free and open-source app framework in Python.
 
-Access DH-Lab Apps and Notebooks at [nb.no/dh-lab](https://www.nb.no/dh-lab/).
+Access DH-Lab with Python code in Jupyter Notebooks at [DH-Lab Digital tekstanalyse](https://www.nb.no/dh-lab/digital-tekstanalyse/).
 
 To run code to text mine the National Library’s digitized collections:
 - Download example notebook from DH-Lab. Begin witht the first before selecting notebook based on type of text mining.
@@ -24,4 +24,5 @@ Digital sentiment analysis uses word lists and data sets where words and express
 
 Scientists at the University of Oslo participating in the project [Sentiment Analysis for Norwegian Text (SANT)](https://www.mn.uio.no/ifi/english/research/projects/sant/) have developed data sets for sentiment analysis in Norwegian, [NorSentLex](https://www.mn.uio.no/ifi/english/research/projects/sant/news/new-sant-resources.html), a Norwegian sentiment lexicon, indicating the prior positive or negative polarity of words. DH-Lab has written example code in Python using NorSentLex, to do a sentiment analysis of a newspaper corpus in the digitized collection of the National Library. See [example code shared in Jupyter Notebook](https://nationallibraryofnorway.github.io/digital_tekstanalyse/cookbook/4.0.sentiment_analysis_timeseries.html). 
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[DH-Lab apps](https://ang-uio.github.io/Textmining/episodes/16-textmine-dh-lab-app.html)
