@@ -25,4 +25,6 @@ Voyant Tools features an implementation of LDA, which requires relatively little
 
 Topic modeling may also be done through Python. The LDA algorithm is implementd in the open-source [Gensim](https://radimrehurek.com/gensim/) Python package. The [DH-Lab at the National Library of Norway](https://www.nb.no/dh-lab/) has written [example code](https://nationallibraryofnorway.github.io/digital_tekstanalyse/cookbook/4.1.topic_modeling_with_LDA.html#) in Python to text mine their digitized collection with Gensim-LDA, you can find it in their open collections of Jupyter Notebooks. They have also made a [web-based app](https://dh.nb.no/apps/temaer/) for topic modeling based on the co-occurrence of words. 
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[DH-Lab Python code in Jupyter Notebooks](https://www.nb.no/dh-lab/digital-tekstanalyse/) or  
+[DH-Lab apps](https://www.nb.no/dh-lab/apper/)
