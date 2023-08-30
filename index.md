@@ -132,5 +132,5 @@ CODE: Concordances, Words in Contexts (similar, common), Collocations, Plots (Di
 TOOLS: Cirrus (word cloud based on frequencies), Trends (word dispersions), KWIC (concordances), Topics (topic modelling with term clusters)
 (w/[many more tools](https://voyant-tools.org/docs/#!/guide/start) available, incl. graphs and plots for visualizing word frequencies, distributions, proximities, collocates, correlations)
 
-**DH-Lab**: build corpus from the National Library and text mine with the [provided Python code](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html) in Jupyter and/or [applications](https://www.nb.no/dh-lab/apper/)  
+**DH-Lab**: build corpus from the National Library and text mine with the [provided Python code](https://www.nb.no/dh-lab/digital-tekstanalyse/) in Jupyter and/or [applications](https://www.nb.no/dh-lab/apper/)  
 TOOLS: Corpus builder, Concordances, Collocations, Frequency Distributions, Topic Modelling, Named Entity Recognition (NER), and Part-of-Speech Tagging (POS)
