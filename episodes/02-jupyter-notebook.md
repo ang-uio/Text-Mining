@@ -12,4 +12,5 @@ Once the new notebook opens you can give it a name by changing the word "Untitle
 
 You will see the first cell in your new notebook.  You can enter python code into this cell and press "Run" as long as it is marked as "Code" in the menu at the top of your notebook.  This will run your code and you will see any output created by the code immediately below it.
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/03-python-basics.html)
