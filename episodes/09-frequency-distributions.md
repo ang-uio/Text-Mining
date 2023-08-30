@@ -88,4 +88,5 @@ plt.show()
 > > ~~~
 > > ![New word cloud](../fig/wordcloud1.png)
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/10-lexical-dispersion-plot.html)
