@@ -39,7 +39,7 @@ Learning a programming language is like learning any new language. It requires c
 
 A key in learning to master a programming language, is learning how to look things up. Therefore in this course you will become familiar with the practice of looking things up and becoming familiar with some of the most relevant ([textbooks](https://ang-uio.github.io/Textmining/#recommended-readings), [published tutorials](https://programminghistorian.org/en/lessons/?search=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), and [forums](https://stackoverflow.com/)).
 
-With a competence in Python, comes a deeper understanding of web applications for text mining, including [DH-Lab Tools](https://www.nb.no/dh-lab/) and [Voyant Tools](https://voyant-tools.org/docs/#!/guide/about) which this course also will make you familiar in using. 
+With a competence in Python, comes a deeper understanding of web applications for text mining, including [DH-Lab Tools](https://www.nb.no/dh-lab/) and [Voyant Tools](https://voyant-tools.org/docs/#!/guide/about) which this course will also introduce you to. 
 
 > **Learning goals:**
 > 
@@ -79,3 +79,43 @@ Articles:
 - [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)
 - [Practice Review - Simple Exerecices](episodes/review.md)
 - [About](episodes/01-textmining-intro.md)
+
+## Program: 
+
+Part I: Introduction
+9-9:15: Introduction: [What is text mining?](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/)
+ | [Text mining types](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html)| [Text mining tools](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/tools-software-bundles.html)
+9:15-10: Getting started with Python
+[Introduction to Jupyter](episodes/02-jupyter-notebook.md), [Python](episodes/03-python-basics.md), and [NLTK](episodes/04-tokenising-text.md). 
+How the Python program works (the math behind it with strings and loops).
+How Python code can be used to text mine.
+
+10-10:15: Break
+
+Part II: Text Mining the Medical History of British India 
+10:15-11: 
+[Preprocessing dataset](episodes/05-preprocessing-dataset.md) 
+[Concordances](episodes/06-concordances.md)
+
+11-11:15: Break
+
+11:15-12:
+[Regular expressions search](episodes/07-regular-expression-search.md)
+[Counting tokens](episodes/08-counting-tokens.md)
+[Frequency distributions and word clouds](episodes/09-frequency-distributions.md) - **plots**
+
+12-13: Lunch
+
+Part III: Text Mining Inaugural addresses 
+13-14:
+[Lexical dispersion](episodes/10-lexical-dispersion-plot.md) (inaugural addresses) - **plots**  
+[Plotting frequency over time](episodes/11-plotting-frequency-over-time.md) - **plots**
+[Collocations](episodes/12-collocations.md) (with specified measured)
+[Part-of-Speech tagging] - **plots** 
+14-14:15: Break
+
+Part IV: Text Mining with Voyant and DH-Lab 
+14:15-14:45: Tour and demonstration of [Voyant](episodes/14-textmine-voyant.md) and [DH-Lab notebooks](episodes/15-textmine-dh-lab.md) and [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)
+14:45-15:35: Individual work in Python, Voyant, or DH-Lab
+15:35-15:50: Q&A, group discussion of tools, discuss assignment and assignment schedule
+15:50-16: Course evaluation
