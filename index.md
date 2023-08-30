@@ -117,6 +117,7 @@ Part III: Text Mining Inaugural addresses
 
 Part IV: Text Mining with Voyant and DH-Lab   
 14:15-14:45: Tour and demonstration of [Voyant](episodes/14-textmine-voyant.md) and [DH-Lab notebooks](episodes/15-textmine-dh-lab.md) and [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)  
+  
 14:45-15:35: Individual work in Python, Voyant, or DH-Lab  
 15:35-15:50: Q&A, group discussion of tools, discuss assignment and assignment schedule  
 15:50-16: Course evaluation  
