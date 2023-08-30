@@ -82,40 +82,53 @@ Articles:
 
 ## Program: 
 
-Part I: Introduction
+Part I: Getting started  
 9-9:15: Introduction: [What is text mining?](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/)
- | [Text mining types](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html)| [Text mining tools](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/tools-software-bundles.html)
-9:15-10: Getting started with Python
-[Introduction to Jupyter](episodes/02-jupyter-notebook.md), [Python](episodes/03-python-basics.md), and [NLTK](episodes/04-tokenising-text.md). 
-How the Python program works (the math behind it with strings and loops).
-How Python code can be used to text mine.
-
-10-10:15: Break
-
-Part II: Text Mining the Medical History of British India 
-10:15-11: 
-[Preprocessing dataset](episodes/05-preprocessing-dataset.md) 
+ | [Text mining types](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/text-mining-types.html) | [Text mining tools](https://www.ub.uio.no/english/libraries/dsc/research-methods/text-mining/tools-software-bundles.html)  
+9:15-10: Getting started with Python  
+[Introduction to Jupyter](episodes/02-jupyter-notebook.md), [Python](episodes/03-python-basics.md), and [NLTK](episodes/04-tokenising-text.md).   
+How the Python program works (the math behind it with strings and loops).  
+How Python code can be used to text mine.  
+  
+10-10:15: Break  
+  
+Part II: Text Mining the Medical History of British India   
+10:15-11:  
+[Preprocessing dataset](episodes/05-preprocessing-dataset.md)  
 [Concordances](episodes/06-concordances.md)
 
 11-11:15: Break
 
 11:15-12:
-[Regular expressions search](episodes/07-regular-expression-search.md)
-[Counting tokens](episodes/08-counting-tokens.md)
-[Frequency distributions and word clouds](episodes/09-frequency-distributions.md) - **plots**
+[Regular expressions search](episodes/07-regular-expression-search.md)  
+[Counting tokens](episodes/08-counting-tokens.md)  
+[Frequency distributions and word clouds](episodes/09-frequency-distributions.md) - **plots**  
 
 12-13: Lunch
 
-Part III: Text Mining Inaugural addresses 
-13-14:
-[Lexical dispersion](episodes/10-lexical-dispersion-plot.md) (inaugural addresses) - **plots**  
-[Plotting frequency over time](episodes/11-plotting-frequency-over-time.md) - **plots**
-[Collocations](episodes/12-collocations.md) (with specified measured)
-[Part-of-Speech tagging] - **plots** 
-14-14:15: Break
+Part III: Text Mining Inaugural addresses  
+13-14:  
+[Lexical dispersion](episodes/10-lexical-dispersion-plot.md) (inaugural addresses) - **plots**    
+[Plotting frequency over time](episodes/11-plotting-frequency-over-time.md) - **plots**  
+[Collocations](episodes/12-collocations.md) (with specified measured)  
+[Part-of-Speech tagging](episodes/13-part-of-speech-tagging-text.md) - **plots**   
+14-14:15: Break  
 
-Part IV: Text Mining with Voyant and DH-Lab 
-14:15-14:45: Tour and demonstration of [Voyant](episodes/14-textmine-voyant.md) and [DH-Lab notebooks](episodes/15-textmine-dh-lab.md) and [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)
-14:45-15:35: Individual work in Python, Voyant, or DH-Lab
-15:35-15:50: Q&A, group discussion of tools, discuss assignment and assignment schedule
-15:50-16: Course evaluation
+Part IV: Text Mining with Voyant and DH-Lab   
+14:15-14:45: Tour and demonstration of [Voyant](episodes/14-textmine-voyant.md) and [DH-Lab notebooks](episodes/15-textmine-dh-lab.md) and [DH-Lab apps](episodes/16-textmine-dh-lab-app.md)  
+14:45-15:35: Individual work in Python, Voyant, or DH-Lab  
+15:35-15:50: Q&A, group discussion of tools, discuss assignment and assignment schedule  
+15:50-16: Course evaluation  
+
+### Suggestions for individual practice:
+
+**Python**: [text mine other corpora made available by NLTK](episodes/review.md), e.g.: 
+Project Gutenberg, Chat Corpus, Personals Corpus, Wall Street Journal  
+CODE: Concordances, Words in Contexts (similar, common), Collocations, Plots (Dispersion & Frequency Distribution)
+
+**Voyant**: text mine Inaugural Address Corpus (or another corpus from NLTK), comparing functionality provided by Voyant with what you did in Python:  
+TOOLS: Cirrus (word cloud based on frequencies), Trends (word dispersions), KWIC (concordances), Topics (topic modelling with term clusters)
+(w/[many more tools](https://voyant-tools.org/docs/#!/guide/start) available, incl. graphs and plots for visualizing word frequencies, distributions, proximities, collocates, correlations)
+
+**DH-Lab**: build corpus from the National Library and text mine with the [provided Python code](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html) in Jupyter and/or [applications](https://www.nb.no/dh-lab/apper/)  
+TOOLS: Corpus builder, Concordances, Collocations, Frequency Distributions, Topic Modelling, Named Entity Recognition (NER), and Part-of-Speech Tagging (POS)
