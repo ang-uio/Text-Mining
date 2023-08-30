@@ -111,7 +111,8 @@ Part III: Text Mining Inaugural addresses
 [Lexical dispersion](episodes/10-lexical-dispersion-plot.md) (inaugural addresses) - **plots**    
 [Plotting frequency over time](episodes/11-plotting-frequency-over-time.md) - **plots**  
 [Collocations](episodes/12-collocations.md) (with specified measured)  
-[Part-of-Speech tagging](episodes/13-part-of-speech-tagging-text.md) - **plots**   
+[Part-of-Speech tagging](episodes/13-part-of-speech-tagging-text.md) - **plots**  
+  
 14-14:15: Break  
 
 Part IV: Text Mining with Voyant and DH-Lab   
