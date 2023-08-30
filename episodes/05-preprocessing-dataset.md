@@ -83,4 +83,5 @@ lower_corpus_tokens[0:10]
 > > print(lower_corpus_tokens[0:30])
 > > ~~~
 
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/06-concordances.html)
