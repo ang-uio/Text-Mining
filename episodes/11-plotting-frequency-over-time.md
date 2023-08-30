@@ -76,4 +76,5 @@ cfd.plot()
 > > cfd.plot()
 > > ~~~
 > >
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/12-collocations.html)
