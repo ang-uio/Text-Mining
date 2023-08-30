@@ -7,7 +7,7 @@ Keypoints:
 
 To use an app to text mine the National Library’s digitized collections:
 
-- Go to the [app page](https://www.nb.no/dh-lab/apper/) at [DH-Lab](https://www.nb.no/dh-lab/) and select the app for the type of text mining you want to do. 
+- Go to the [DH-Lab app page](https://www.nb.no/dh-lab/apper/) and select the app for the type of text mining you want to do. 
 - You first need to build a corpus using the corpus app. 
 - You can then drag and drop the corpus you build to the app for the type of text mining you want to do.
 
