@@ -65,4 +65,5 @@ finder.nbest(bigram_measures.likelihood_ratio, 10)
  ('Let', 'us'),
  ('men', 'women')]
 ```
-[Index](https://ang-uio.github.io/Textmining/)
+[Index](https://ang-uio.github.io/Textmining/) or  
+[next](https://ang-uio.github.io/Textmining/episodes/13-part-of-speech-tagging-text.html)
