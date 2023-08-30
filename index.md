@@ -99,7 +99,7 @@ Part II: Text Mining the Medical History of British India
 
 11-11:15: Break
 
-11:15-12:
+11:15-12:  
 [Regular expressions search](episodes/07-regular-expression-search.md)  
 [Counting tokens](episodes/08-counting-tokens.md)  
 [Frequency distributions and word clouds](episodes/09-frequency-distributions.md) - **plots**  
