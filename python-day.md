@@ -499,7 +499,7 @@ Keypoints:
 
 This section provides a taster to the use of regular expression searching.  For a more detailed overview and use of regular expressions, please refer to the chapter on [Regular Expressions for Detecting Word Patterns](https://www.nltk.org/book/ch03.html#sec-regular-expressions-word-patterns) in the NLKT textbook, as well as the Programming Historian lesson [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions).
 
-You may want to look for the word "women" as well a "woman" in a corpus simultaneously, to find out how many times they occur. You would do this using regular expressions. Regular expressions define a search term that can have some variety in it.  Do use regular expression search in python, you first need to import the ```re``` module.
+You may want to look for the word "women" as well a "woman" in a corpus simultaneously, to find out how many times they occur. You would do this using regular expressions. Regular expressions define a search term that can have some variety in it.  To use regular expression search in Python, you first need to import the ```re``` module.
 
 ```python
 import re
