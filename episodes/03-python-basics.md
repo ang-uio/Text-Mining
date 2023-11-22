@@ -22,7 +22,7 @@ In Python, you can assign information to variables. A variable is a memory locat
 
 For example we can put the string "text mining" into the box named "text".
 
-We do that by assigning the string to the variable named text. When assigning variables in python, the name of the variable is on the left followed by an equal sign and the value of the variable, as follows:
+We do that by assigning the string to the variable named text. When assigning variables in Python, the name of the variable is on the left followed by an equal sign and the value of the variable, as follows:
 
 
 ```python
