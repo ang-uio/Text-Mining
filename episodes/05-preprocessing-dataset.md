@@ -8,7 +8,7 @@ Text data comes in different formats that must be parsed into plain text for Pyt
 
 ### Download some data
 
-Firstly, please download a dataset and make a note of where it is saved on your computer.  We need the path to dataset in order to load and read it for further processing.
+Firstly, please download a dataset and make a note of where it is saved on your computer.  We need the path to the dataset in order to load and read it for further processing.
 
 We will use the [Medical History of British India](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) collection provided by the [National Libarry of Scotland](https://www.nls.uk) as an example:
 
