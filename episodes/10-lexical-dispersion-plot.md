@@ -27,7 +27,7 @@ To create the lexical dispersion plot for this corpus you also need to load ```d
 ```python
 from nltk.draw.dispersion import dispersion_plot
 
-[Index](https://ang-uio.github.io/text-mining/)
+# the following command can be used to increase the size of the plot using width and hight specifications
 plt.figure(figsize=(12, 9)) # command used to increase the size of the plot using width and hight specifications
 targets=['great','good','tax','work','change']
 dispersion_plot(inaugural_texts, targets)
