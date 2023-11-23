@@ -31,7 +31,7 @@ fdist_filtered.plot(30,title='Frequency distribution for 30 most common tokens i
 {: .callout}
 
 #### Word cloud
-We can also present the filtered tokens as a word cloud. This allows us the have an overview of the corpus using the ```WordCloud( ).generate_from_frequencies()``` method. The input to this method is a frequency dictionary of all tokens and their counts in the text.  This needs to be created first by importing the ```Counter``` package in python and creating a dictionary using the ```filtered_text``` variable as input.
+We can also present the filtered tokens as a word cloud. This allows us to have an overview of the corpus using the ```WordCloud( ).generate_from_frequencies()``` method. The input to this method is a frequency dictionary of all tokens and their counts in the text.  This needs to be created first by importing the ```Counter``` package in python and creating a dictionary using the ```filtered_text``` variable as input.
 
 We generate the WordCloud using the frequency dictionary and plot the figure to size. We can show the plot using ```plt.show()```.
 
