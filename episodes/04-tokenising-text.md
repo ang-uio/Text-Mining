@@ -6,7 +6,7 @@ Keypoints:
 
 ### But first ... importing packages
 
-Python has a selection of pre-written code that can be used. These come as in built functions and a library of packages of modules. We have already used the in-built function ```print()```.  In-built functions are available as soon as you start python. There is also a (software) library of modules that contain other functions, but these modules need to be imported.
+Python has a selection of pre-written code that can be used. These come as in built functions and a library of packages of modules. We have already used the in-built function ```print()```.  In-built functions are available as soon as you start Python. There is also a (software) library of modules that contain other functions, but these modules need to be imported.
 
 For this course we need to import a few libraries into Python, including the [Natural Language Toolkit](https://www.nltk.org/) (NLTK). To do this, we need to use the ```import``` command and run ```import nltk```. We will also use ```numpy``` to represent information in arrays and matrices, ```string``` to process some strings, and ```matplotlib``` to visualise the output.
 
