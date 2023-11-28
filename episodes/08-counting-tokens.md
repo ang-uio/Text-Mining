@@ -20,7 +20,7 @@ We can count the total number of tokens in a corpus using the ```N()``` method:
 ```python
 fdist.N()
 ```
-    93571
+    93568
 
 And count the number of times a token appears in a corpus:
 
