@@ -5,7 +5,7 @@ Keypoints:
 - We can extract all nouns from a corpus both plural (NNS) and singular (NN).
 - We can visualise the nouns from a corpus using a plot of frequence distribution and a word cloud. We can do the same for other POS.
 
-In text mining it can be useful to extract words that have a particular part of speech (POS) such as a noun or a verb. For example extracting all proper nouns can give use names and locations. This is done using a POS-tagger. The POS-tag of a word is a label of the word indicating its part of speech as well as grammatical categories such as tense, number (plural/singular) and case. POS tagging is the process of automatically determining the POS-tags of the tokens in a corpus. You can read more about the algorithm behind [POS-tagging in the NLKT textbook](https://www.nltk.org/book/ch05.html).
+In text mining it can be useful to extract words that have a particular part of speech (POS) such as a noun or a verb. For example extracting all proper nouns can give us names and locations. This is done using a POS-tagger. The POS-tag of a word is a label of the word indicating its part of speech as well as grammatical categories such as tense, number (plural/singular) and case. POS tagging is the process of automatically determining the POS-tags of the tokens in a corpus. You can read more about the algorithm behind [POS-tagging in the NLKT textbook](https://www.nltk.org/book/ch05.html).
 
 In this lesson, we will use NLTK’s ```averaged_perceptron_tagger``` as the POS-tagger. It uses the perceptron algorithm to predict which POS-tag is most likely given the word.  We need to download the tagger in order to use it.
 
@@ -201,7 +201,7 @@ plt.show()
 > Now you can search for nouns, adjectives, and adverbs in the inaugurals of Biden and Trump separately, and any other inaugural you’d like to look at, the way we have done for the inaugurals as a whole. 
 
 
-> ## Task 5: Define and text mine the speeches of Biden, Trump, Kennedy, or any other inaugural speech. 
+> ## EXTRA: Tasks on inaugural text corpus that incorporate tools from previous lessons - Define and text mine the speeches of Biden, Trump, Kennedy, or any other inaugural speech. 
 > Define individual inaugural speeches using the ```Text``` class function of the NLKT package (confer with course section on concordances). For example:
 >
 >```python
