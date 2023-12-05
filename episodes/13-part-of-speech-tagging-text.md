@@ -202,13 +202,13 @@ plt.show()
 
 
 > ## EXTRA: Tasks on inaugural text corpus that incorporate tools from previous lessons - Define and text mine the speeches of Biden, Trump, Kennedy, or any other inaugural speech. 
-> Define individual inaugural speeches using the ```Text``` class function of the NLKT package (confer with course section on concordances). For example:
+> Define individual inaugural speeches using the ```Text``` class function of the NLTK package (confer with course section on concordances). For example:
 >
 >```python
 >biden = nltk.Text(inaugural.words('2021-Biden.txt'))
 >```
 > 
-> When you have defined an inaugural, you can search for concordances, collocations, and count for lexical diversity in it. See full description of ```Text``` class functionality at [NLKT](https://www.nltk.org/api/nltk.text.Text.html).  
+> When you have defined an inaugural, you can search for concordances, collocations, and count for lexical diversity in it. See full description of ```Text``` class functionality at [NLTK](https://www.nltk.org/api/nltk.text.Text.html).  
 > 
 > Do concordances in the defined inaugural speeches on these terms: "democracy", "america", "freedom". 
 > 
