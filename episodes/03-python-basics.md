@@ -54,7 +54,7 @@ In this lesson we will be concentrating mainly on strings.
 
 Data can be grouped together in an ordered way using a list. Lists are very common data structures used in Python, for example to represent text.
 
-In the following example the list named "sentence" stores all the words and punctuation of the sentence "This is an example sentence."
+In the following example the list named "sentence" stores all the words and punctuation of the sentence "Just think happy thoughts and you'll smile."
 
 Lists are created by typing comma separated values inside square brackets.  You can print out all elements in the list.
 
