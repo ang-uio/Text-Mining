@@ -37,7 +37,7 @@ from nltk.probability import ConditionalFreqDist
 # type this to set the figure size
 plt.rcParams["figure.figsize"] = (12, 9)
 
-targets=['great','good','tax','work','change', 'wom[ae]n']
+targets=['great','good','tax','work','change']
 
 cfd = nltk.ConditionalFreqDist((target, fileid[:4])
     for fileid in inaugural.fileids()
