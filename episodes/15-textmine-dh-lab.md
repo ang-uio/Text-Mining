@@ -18,7 +18,7 @@ To run code to text mine the National Library’s digitized collections:
 
 To run code from this course or elsewhere on a corpus in DH-Lab, you need to have dhlab installed running # !pip install dhlab, and the corpus file path must be changed from your local machine to the URNs defined in dhlab.   
 
-biden = nltk.Text(inaugural.words('2021-Biden.txt'))
+# !pip install dhlab
 
 ## Sentiment Analysis
 
