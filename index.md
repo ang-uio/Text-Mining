@@ -37,7 +37,7 @@ More and more archives have their own programming or application tools to text m
 
 Learning a programming language is like learning any new language. It requires copying, repeating, using a dictionary, practicing, learning enough of the 'grammar' of the language to detect typos and mistakes.
 
-A key in learning to master a programming language, is learning how to look things up. Therefore in this course you will become familiar with the practice of looking things up and becoming familiar with some of the most relevant ([textbooks]([https://ang-uio.github.io/Textmining/#recommended-readings](https://ang-uio.github.io/Textmining/#recommended-and-required-readings), [published tutorials](https://programminghistorian.org/en/lessons/?search=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), and [forums](https://stackoverflow.com/)).
+A key in learning to master a programming language, is learning how to look things up. Therefore in this course you will become familiar with the practice of looking things up and becoming familiar with some of the most relevant ([textbooks](https://ang-uio.github.io/Textmining/#recommended-and-required-readings), [published tutorials](https://programminghistorian.org/en/lessons/?search=python), [online resources](https://github.com/sgsinclair/alta/blob/2eb10ab6787d032e317ce883fb0bc3427406333d/ipynb/Useful%20Resources.ipynb), and [forums](https://stackoverflow.com/)).
 
 With a competence in Python, comes a deeper understanding of web applications for text mining, including those from [DH-Lab ](https://www.nb.no/dh-lab/) and [Voyant](https://voyant-tools.org/docs/#!/guide/about) which this course will also introduce you to. 
 
