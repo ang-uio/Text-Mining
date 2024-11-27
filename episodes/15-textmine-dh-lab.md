@@ -18,6 +18,8 @@ To run code to text mine the National Library’s digitized collections:
 
 To run code from this course or elsewhere on a corpus in DH-Lab, you need to have dhlab installed running # !pip install dhlab, and the corpus file path must be changed from your local machine to the URNs defined in dhlab.   
 
+biden = nltk.Text(inaugural.words('2021-Biden.txt'))
+
 ## Sentiment Analysis
 
 Also known as “opinion mining”, sentiment analysis describes automated methods to identify affective states in data sets. This is done through systematic selection of expressions of subjective opinions and emotional evaluations in the material. Sentiment analysis is popular in marketing, advertising and to examine the tone of political communication, public debate, social media as well as studies of plot and genre in literary corpora. 
