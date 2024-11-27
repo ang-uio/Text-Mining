@@ -3,18 +3,20 @@
 Keypoints:
 - With the API from the DH-Lab you can text mine just about all of the National Library of Norway's digitized collection.
 - The DH-Lab has prepared Python code in Jupyter Notebooks you can copy and adapt precisely as you want.
-- There is example code to serach for concordances, collocations, N-gram and word frequencies, Named Entity Recognition (NER) & Part-of-Speech (POS) tagging, Topic Modelling, and Sentiment Analysis.
+- There is example code to search for concordances, collocations, N-gram and word frequencies, Named Entity Recognition (NER) & Part-of-Speech (POS) tagging, Topic Modelling, and Sentiment Analysis.
 
-The [DH-Lab](https://www.nb.no/dh-lab/) at the National Library of Norway has written example code to text mine the National Library’s huge digitized collection, and it is developing web-based apps for a simpler introduction to text mining the National Library's collection. The code is written in Python and shared in Jupyter Notebook, and the apps are made using Streamlit, a free and open-source app framework in Python.
+The [DH-Lab](https://www.nb.no/dh-lab/) at the National Library of Norway has written example code to text mine the National Library’s huge digitized collection, as well as web-based apps for a simpler introduction to text mining the National Library's collection. The code is written in Python and shared in Jupyter Notebook, and the apps are made using Streamlit, a free and open-source app framework in Python.
 
 Access DH-Lab with Python code in Jupyter Notebooks at [DH-Lab Digital tekstanalyse](https://www.nb.no/dh-lab/digital-tekstanalyse/).
 
 To run code to text mine the National Library’s digitized collections:
+- You must have Anaconda downloaded and installed (as for this course).
 - Download example notebook from DH-Lab. Begin witht the first before selecting notebook based on type of text mining.
-- Download and install Anaconda. 
 - Open Anaconda, launch Jupyter Notebook from Anaconda, and open the downloaded notebook. 
 - Begin at the top of the downloaded notebook and follow the instructions. 
 - Run all cells in the notebook.
+
+To run code from this course or elsewhere on a corpus in DH-Lab, you need to have dhlab installed running # !pip install dhlab, and the corpus file path must be changed from your local machine to the URNs defined in dhlab.   
 
 ## Sentiment Analysis
 
