@@ -20,7 +20,7 @@ This collection has been made available as part of NLS's DataFoundry platform wh
 
 We are only interested in the text the Medical History of British India collection for this course so at the bottom of the website, download the "Just the text" data or [download it directly here](https://nlsfoundry.s3.amazonaws.com/text/nls-text-indiaPapers.zip).
 
-Note that this dataset requires approx. 120 MB of free file space on your computer once it has been unzipped.  Most computers automatically uncompress ```.zip``` files as the one you have downloaded.  If your computer does not do that then right-click on the file and click on uncompress or unzip.
+Note that this dataset requires approx. 120 MB of free file space on your computer once it has been unzipped.  Most computers automatically uncompress ```.zip``` files as the one you have downloaded.  If your computer does not do that, then right-click on the file and click on uncompress or unzip.
 
 You should be left with a folder called ```nls-text-indiaPapers``` containing all the ```.txt``` files for this collection.  Please check that you have that on your computer and find out what its path is.  In my case it is ```/Users/annesabo/Downloads/nls-text-indiaPapers/```.
 
